@@ -1,6 +1,6 @@
 <center><h2># Sejam Bem-Vindos ao meu GitHub! </h2></center>
 
-![Gif do Gatinho](https://aminoapps.com/c/um-mundo-kawaii-br/page/item/gatinho-no-computador/vMnk_0dhWI6P8075610330o4bExqd5QJJj](https://pa1.aminoapps.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif)](https://pa1.aminoapps.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif)
+![Gif do Gatinho](https://pa1.aminoapps.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif)
 
 
 <!--
