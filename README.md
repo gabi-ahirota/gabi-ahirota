@@ -9,7 +9,12 @@
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/gabrielahirota/)
 
+------------------------------------------------------------------------------------------------------------
 
+## Minhas Tecnologias
+
+![python]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg")
+          
 
 
 <!--
