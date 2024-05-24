@@ -13,7 +13,7 @@
 
 ## Minhas Tecnologias
 
-![python]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg")
+![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
           
 
 
