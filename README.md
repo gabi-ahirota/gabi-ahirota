@@ -5,7 +5,7 @@
 
 💫 Oi! Me chamo Gabriela Hirota!
 
-🖥️ Sou estudante de Analise e Desenvolvimento de Sistemas e Analise de Dados.
+🖥️ Sou estudante de Banco de dados e Engenharia de Dados.
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/gabrielahirota/)
 
