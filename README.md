@@ -7,7 +7,7 @@
 
 🖥️ Sou estudante de Banco de dados e Engenharia de Dados.
 
-📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/gabrielahirota/)
+📫 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/gabrielahirota/)
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -19,12 +19,10 @@
   <img align="center" alt="gabi-postgresql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="gabi-anaconda" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
   <img align="center" alt="gabi-git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="gabi-linux" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
-          
-          
+  <img align="center" alt="gabi-linux" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />         
 </div>
-  
+
+
           
           
 
