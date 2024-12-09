@@ -21,7 +21,7 @@ Contato:
   <img align="center" alt="gabi-linux" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />         
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamegabi-ahirota&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-ahirota&hide_progress=true)
 
 
           
